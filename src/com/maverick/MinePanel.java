@@ -2,9 +2,7 @@ package com.maverick;
 
 import javax.swing.*;
 
-/**
- * Created by Alex on 03.11.2015.
- */
+
 public class MinePanel extends JPanel {
     private  String namebutton = "Time";
     public  JButton bat1 = new JButton(namebutton);

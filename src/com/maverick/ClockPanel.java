@@ -3,9 +3,7 @@ package com.maverick;
 import javax.swing.*;
 import java.awt.*;
 
-/**
- * Created by Alex on 03.11.2015.
- */
+
 public class ClockPanel extends JPanel {
     private JLabel lab1 = new JLabel();
     private int fontsize = 32;

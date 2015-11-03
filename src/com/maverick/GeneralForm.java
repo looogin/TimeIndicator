@@ -8,10 +8,6 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 
-/**
- * Created by Alex on 03.11.2015.
- */
-
 public class GeneralForm extends JFrame implements Runnable {
     private boolean running;
     private int tickCount;
